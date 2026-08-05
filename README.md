@@ -137,7 +137,7 @@ SignSpeak/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/siddharthdnair/signspeak.git
+git clone https://github.com/sidnair19/signspeak.git
 cd signspeak
 ```
 
@@ -294,4 +294,4 @@ For questions or collaboration, reach out via GitHub Issues.
 1. **Replace placeholder content** — Update the clone URL, team name, and any placeholder text in `templates/index.html`.
 2. **Remove secrets** — `main2.py` contains a hardcoded Gemini API key; move it to an environment variable before pushing to GitHub.
 3. **Add screenshots** — Include `demo.jpg` or screenshots of the Tkinter GUI and web dashboard in a `docs/` or `screenshots/` folder.
-4. **Add a `.gitignore`** — Exclude `venv/`, `*.pkl`, `user_data.db`, `*.mp3`, and `.env`.
+4. **Add a `.gitignore`** — Exclude `venv/`, `*.pkl`, `user_data.db`, `*.mp3`, and `.env`. *(Already included in this repo.)*
