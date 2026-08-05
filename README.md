@@ -137,7 +137,7 @@ SignSpeak/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/signspeak.git
+git clone https://github.com/siddharthdnair/signspeak.git
 cd signspeak
 ```
 
